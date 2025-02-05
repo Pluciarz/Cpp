@@ -1,0 +1,3 @@
+﻿  Liczby Smitha.cpp
+D:\Programy\Zadania C++\Zadania dla siebie\Liczby Smitha\Liczby Smitha.cpp(63,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Liczby Smitha.vcxproj -> D:\Programy\Zadania C++\Zadania dla siebie\Liczby Smitha\x64\Debug\Liczby Smitha.exe
